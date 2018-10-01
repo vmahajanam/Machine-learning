@@ -1,2 +1,2 @@
-# Developing-data-Products
-This contains the assignment for week4 of the course Developing data products
+# Machine learning
+This contains the assignment for the course practical machine learning
